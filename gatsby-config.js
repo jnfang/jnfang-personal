@@ -6,6 +6,9 @@ module.exports = {
       formspreeEndpoint: "https://formspree.io/f/mwkzkbqo",
     },
     plugins: [
+      `gatsby-plugin-image`,
+      `gatsby-plugin-sharp`,
+      `gatsby-transformer-sharp`, // Needed for dynamic images
       {
         resolve: "@wkocjan/gatsby-theme-intro",
         options: {
