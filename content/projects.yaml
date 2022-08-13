@@ -1,0 +1,18 @@
+- name: Massachusetts Paid Family and Medical Leave
+  url: https://paidleave.mass.gov/
+  description: Claimant and Employer portals for this state benefit which launched in January 2021.
+  status: live
+  tags:
+    - React
+    - Python
+  icon: website
+  image: images/pfml.png
+
+- name: Learner Skill Tracker Beta
+  url: https://www.coursera.org/
+  description: First beta launch of Coursera Skill Graph to learners where they can see personalized skills progress as they complete assessments in Coursera courses. Worked closely with data science to productionize a Glicko model https://files.eric.ed.gov/fulltext/ED599237.pdf
+  status: live
+  tags:
+    - Scala
+    - Python
+  icon: website

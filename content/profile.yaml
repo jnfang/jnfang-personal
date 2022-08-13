@@ -1,0 +1,28 @@
+- profile:
+  initials: JF
+  name: Jiayun (JN) Fang
+  profession: Explorer
+  image: images/profile.jpeg
+  location: Oakland, USA
+  relocation: false
+  company: Working on something new
+  for_hire: false
+  focus: Fighting the climate crisis
+  focus_url: https://www.amazon.com/This-Changes-Everything-Capitalism-Climate/dp/1451697392
+  about: |
+    I'm a software engineer by training and a founder by learning. I grew up in a lot of places and have been lucky to them home: Yixing, Shanghai, New Jersey, Cambridge, Paris, and now Oakland. 
+
+    I believe in tackling the world's toughest problems with technology and hustle.
+  skills:
+    - Building ML/data products
+    - Fullstack engineer
+    - Startup 0 to 1 Operations
+  tools:
+    - Python
+    - React
+    - ML/AI
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
